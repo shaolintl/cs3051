@@ -1,0 +1,8 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shaolintl/cs3051.git",
+  "author": "Tomer Libal <shaolintl@gmail.com>",
+  "license": "MIT"
+}
